@@ -1,1 +1,1 @@
-web: herokuAddr=ybproxy.herokuapp.com/ npm run start
+web: herokuAddr=ybproxy.herokuapp.com npm run start
